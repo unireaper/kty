@@ -2,7 +2,7 @@
 # KTY(Kolay Tarayıcı Yükleme)
 
 
-KTY(Kolay Tarayıcı Yükleme) ile kolay şekilde internet tarayıcısı yükleyebilirsiniz.
+KTY(Kolay Tarayıcı Yükleme) ile kolay şekilde internet tarayıcısı yükleyebilirsiniz. Sadece Debian ve Ubuntu tabanlılar için kullanılır.
 
 
 
