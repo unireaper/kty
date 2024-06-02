@@ -34,7 +34,7 @@ case secim
         puts "Google Chrome Browser kuruldu." 
 
     when 4 #Falkon Browser kurulumu
-        system("echo 3")
+        system("echo Falkon Browser")
         system("sudo apt install -y falkon")
         puts "Falkon Browser kuruldu."
 else
